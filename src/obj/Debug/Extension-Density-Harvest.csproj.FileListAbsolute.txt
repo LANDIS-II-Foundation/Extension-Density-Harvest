@@ -1,0 +1,11 @@
+C:\Users\jacobfraser\source\repos\Extension-Density-Harvest\src\obj\Debug\Extension-Density-Harvest.csproj.AssemblyReference.cache
+C:\Users\jacobfraser\source\repos\Extension-Density-Harvest\src\obj\Debug\Extension-Density-Harvest.AssemblyInfoInputs.cache
+C:\Users\jacobfraser\source\repos\Extension-Density-Harvest\src\obj\Debug\Extension-Density-Harvest.AssemblyInfo.cs
+C:\Users\jacobfraser\source\repos\Extension-Density-Harvest\src\obj\Debug\Extension-Density-Harvest.csproj.CoreCompileInputs.cache
+C:\Users\jacobfraser\source\repos\Core-Model-v7\Tool-Console\src\bin\extensions\Landis.Extension.DensityHarvest-v1.deps.json
+C:\Users\jacobfraser\source\repos\Core-Model-v7\Tool-Console\src\bin\extensions\Landis.Extension.DensityHarvest-v1.dll
+C:\Users\jacobfraser\source\repos\Core-Model-v7\Tool-Console\src\bin\extensions\Landis.Extension.DensityHarvest-v1.pdb
+C:\Users\jacobfraser\source\repos\Extension-Density-Harvest\src\obj\Debug\Extension-Density-Harvest.csproj.CopyComplete
+C:\Users\jacobfraser\source\repos\Extension-Density-Harvest\src\obj\Debug\Landis.Extension.DensityHarvest-v1.dll
+C:\Users\jacobfraser\source\repos\Extension-Density-Harvest\src\obj\Debug\Landis.Extension.DensityHarvest-v1.pdb
+C:\Users\jacobfraser\source\repos\Extension-Density-Harvest\src\obj\Debug\Extension-Density-Harvest.GeneratedMSBuildEditorConfig.editorconfig
